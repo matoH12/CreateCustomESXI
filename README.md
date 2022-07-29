@@ -20,3 +20,8 @@ Choose additional SW imported from directory:
 Exported ISO file:
 
 ![alt text](https://github.com/matoH12/CreateCUstomESXI/blob/main/export.PNG?raw=true)
+
+
+
+Example usage
+https://virtualall.sk/vmware/vsphere/vmware-esxi-vytvorenie-vlastneho-instalacneho-media/
