@@ -1,6 +1,11 @@
 # Create Custom install ISO file with external driver or software
 This script you can use for create custom install iso from vmware where you import custom driver or software.
 
+Install powershell package
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
+Install-Module -Name VMware.PowerCLI -SkipPublisherCheck
+
+
 Using script
 
 
